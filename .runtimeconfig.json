@@ -1,0 +1,8 @@
+{
+    "stripe": {
+        "key": "<empty>"
+    },
+    "google": {
+        "key": "<empty>"
+    }
+}
